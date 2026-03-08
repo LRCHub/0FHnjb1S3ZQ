@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "心がくたばるよ",
+  "base_artist": "ざらばんし",
+  "createdAt": "2026-03-08T10:18:05.021023Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "心がくたばるよ",
+      "artist": "ざらばんし",
+      "has_synced": false,
+      "path": "select/pl_01_心がくたばるよ_ざらばんし.txt"
+    }
+  ]
+}
